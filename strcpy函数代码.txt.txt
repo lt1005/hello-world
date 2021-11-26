@@ -15,5 +15,6 @@ for (int i=0;i<len;i++)
 dst[len]='/0';
 
 return dst;
+jgfgh
 }
 /*本地编辑*/
